@@ -1,3 +1,3 @@
 # keix
 
-return current;
+return 0;

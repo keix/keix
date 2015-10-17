@@ -1,3 +1,3 @@
 #!/usr/local/bin/sbcl --script
 
-(defun keix (void) (cons void nil))
+(defun keix (hofchan) (cons hofchan nil))

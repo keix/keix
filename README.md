@@ -1,3 +1,1 @@
 # keix
-
-return 0;
